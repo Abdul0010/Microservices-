@@ -1,4 +1,4 @@
-package come.abduk.blacklist;
+package come.abduk.blacklist.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

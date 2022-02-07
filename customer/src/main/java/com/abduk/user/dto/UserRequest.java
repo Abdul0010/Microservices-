@@ -1,4 +1,4 @@
-package com.abduk.user;
+package com.abduk.user.dto;
 
 import lombok.Data;
 

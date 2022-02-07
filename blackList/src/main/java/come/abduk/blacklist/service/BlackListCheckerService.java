@@ -1,5 +1,7 @@
-package come.abduk.blacklist;
+package come.abduk.blacklist.service;
 
+import come.abduk.blacklist.domain.BlackListChecker;
+import come.abduk.blacklist.repository.BlackListedRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

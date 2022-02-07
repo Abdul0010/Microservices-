@@ -1,5 +1,6 @@
-package come.abduk.blacklist;
+package come.abduk.blacklist.controller;
 
+import come.abduk.blacklist.service.BlackListCheckerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
